@@ -9,7 +9,7 @@ rcon_address [host/ip:port]
 rcon_password [password]
 ```
 
-## Bots commands
+## Bot commands
 
 ### Kick all bots
 

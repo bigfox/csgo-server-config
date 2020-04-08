@@ -1,6 +1,6 @@
 # CS:GO Server Config
 
-Upload `server.cfg` and `gamemode_competitive_server.cfg` to `csgo/cfg` folder on your server
+Upload `server.cfg` and `gamemode_competitive_server.cfg` to `.../csgo/cfg/` folder on your server
 
 ## Setup RCON
 

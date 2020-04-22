@@ -2,6 +2,26 @@
 
 Upload `server.cfg` and `gamemode_competitive_server.cfg` to `.../csgo/cfg/` folder on your server
 
+## Game Modes
+
+### Classic Casual
+
+```bash
++exec server.cfg +game_type 0 +game_mode 0 +map de_dust2 +mapgroup mg_bomb +sv_setsteamaccount [STEAM_LOGIN_TOKEN] -autoupdate
+```
+
+### Classic Competitive
+
+```bash
++exec server.cfg +game_type 0 +game_mode 1 +map de_dust2 +mapgroup mg_active +sv_setsteamaccount [STEAM_LOGIN_TOKEN] -autoupdate
+```
+
+### Arms Race
+
+```bash
++exec server.cfg +game_type 1 +game_mode 0 +map ar_shoots +mapgroup mg_armsrace +sv_setsteamaccount [STEAM_LOGIN_TOKEN] -autoupdate
+```
+
 ## Setup RCON
 
 ```bash

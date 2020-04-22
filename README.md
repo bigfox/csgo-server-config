@@ -4,6 +4,11 @@ Upload `server.cfg` and `gamemode_competitive_server.cfg` to `.../csgo/cfg/` fol
 
 ## Game Modes
 
+|               | `game_mode 0` | `game_mode 1`    |
+| ------------- | ------------- | ---------------- |
+| `game_type 0` | Casual Mode   | Competitive Mode |
+| `game_type 1` | Arms Race     | Demolition       |
+
 ### Classic Casual
 
 ```plain

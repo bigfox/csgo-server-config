@@ -56,4 +56,4 @@ rcon_password [password]
 
 ### Show SourceMod Admin Menu
 
-Bind key F12 to command `sm_admin` (see [How to: Scripting, Binds and Configs](https://steamcommunity.com/sharedfiles/filedetails/?id=314801693))
+Bind key F11 to command `sm_admin` (see [How to: Scripting, Binds and Configs](https://steamcommunity.com/sharedfiles/filedetails/?id=314801693))

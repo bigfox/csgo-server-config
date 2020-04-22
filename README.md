@@ -6,25 +6,25 @@ Upload `server.cfg` and `gamemode_competitive_server.cfg` to `.../csgo/cfg/` fol
 
 ### Classic Casual
 
-```bash
+```plain
 +exec server.cfg +game_type 0 +game_mode 0 +map de_dust2 +mapgroup mg_bomb +sv_setsteamaccount [STEAM_LOGIN_TOKEN] -autoupdate
 ```
 
 ### Classic Competitive
 
-```bash
+```plain
 +exec server.cfg +game_type 0 +game_mode 1 +map de_dust2 +mapgroup mg_active +sv_setsteamaccount [STEAM_LOGIN_TOKEN] -autoupdate
 ```
 
 ### Arms Race
 
-```bash
+```plain
 +exec server.cfg +game_type 1 +game_mode 0 +map ar_shoots +mapgroup mg_armsrace +sv_setsteamaccount [STEAM_LOGIN_TOKEN] -autoupdate
 ```
 
 ## Setup RCON
 
-```bash
+```plain
 rcon_address [host/ip:port]
 rcon_password [password]
 ```
@@ -33,25 +33,25 @@ rcon_password [password]
 
 ### Kick all bots
 
-```bash
+```plain
 rcon bot_kick
 ```
 
 ### Add random bot
 
-```bash
+```plain
 rcon bot_add
 ```
 
 ### Add counter-terrorist bot
 
-```bash
+```plain
 rcon bot_add_ct
 ```
 
 ### Add terrorist bot
 
-```bash
+```plain
 rcon bot_add_t
 ```
 

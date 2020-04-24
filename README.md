@@ -2,8 +2,8 @@
 
 ## Server
 
-1. Update server name and passwords to `cfg/server.cfg`
-2. Upload all files from `cfg` to `.../csgo/cfg/` folder on your server.
+1. Set server name and passwords in `cfg/server.cfg`
+2. Upload folders `cfg` and `addons` to `.../csgo/` folder on your server.
 
 ### Game Modes
 
@@ -11,6 +11,8 @@
 | ------------- | ------------- | ---------------- |
 | `game_type 0` | Casual Mode   | Competitive Mode |
 | `game_type 1` | Arms Race     | Demolition       |
+
+### Startup options
 
 #### Classic Casual
 
@@ -35,7 +37,7 @@
 - [Documentation](https://wiki.alliedmods.net/Category:SourceMod_Documentation)
 - [Adding Admins](https://wiki.alliedmods.net/Adding_Admins_(SourceMod)) to show admin menu
 
-To disable `nextmap` plugin (breaks native map voting) move `csgo/addons/sourcemod/plugins/nextmap.smx` to `csgo/addons/sourcemod/plugins/disabled` folder.
+To disable `nextmap` plugin (breaks native map voting) move `csgo/addons/sourcemod/plugins/nextmap.smx` to `csgo/addons/sourcemod/plugins/disabled/` folder.
 
 ## Client
 

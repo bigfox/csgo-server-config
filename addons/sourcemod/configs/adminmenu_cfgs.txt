@@ -1,0 +1,19 @@
+/**
+ * List config files here (relative to moddir) to have them added to the exec config menu list
+ * Left side is the filename, right side is the text to be added to the menu
+ */
+
+// Original config
+//
+// Configs
+// {
+// 	"cfg/server.cfg"	"Standard Server Setup"
+// 	"cfg/sourcemod/sm_warmode_on.cfg"	"War Mode On"
+// 	"cfg/sourcemod/sm_warmode_off.cfg"	"War Mode Off"
+// }
+
+Configs
+{
+	"cfg/set_competitive.cfg"	"Classic Competitive Mode"
+	"cfg/set_armsrace.cfg"	"Arms Race Mode"
+}

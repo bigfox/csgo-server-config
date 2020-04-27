@@ -1,0 +1,26 @@
+// To use this file, rename it to GameModes_Server.txt
+//
+// Values here override the default gamemodes.txt 
+
+"GameModes_Server.txt"
+{
+	"mapgroups"
+	{
+		"mg_wingman"
+		{
+			"name"			"mg_wingman"
+			"maps"
+			{
+				"de_vertigo"		""
+				"de_inferno"		""
+				"de_overpass"		""
+				"de_cbble"		""
+				"de_train"		""
+				"de_shortnuke"		""
+				"de_shortdust"		""
+				"gd_rialto"		""
+				"de_lake"		""
+			}
+		}
+	}
+}}

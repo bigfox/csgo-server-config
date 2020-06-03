@@ -8,18 +8,18 @@
 	{
 		"mg_wingman"
 		{
-			"name"			"mg_wingman"
+			"name" "mg_wingman"
 			"maps"
 			{
-				"de_vertigo"		""
-				"de_inferno"		""
-				"de_overpass"		""
-				"de_cbble"		""
-				"de_train"		""
-				"de_shortnuke"		""
-				"de_shortdust"		""
-				"gd_rialto"		""
-				"de_lake"		""
+				"de_vertigo" "0"
+				"de_inferno" "1"
+				"de_overpass" "2"
+				"de_cbble" "3"
+				"de_train" "4"
+				"de_shortnuke" "5"
+				"de_shortdust" "6"
+				"gd_rialto" "7"
+				"de_lake" "8"
 			}
 		}
 	}

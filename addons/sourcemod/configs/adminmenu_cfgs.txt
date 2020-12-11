@@ -15,8 +15,9 @@
 Configs
 {
 	"cfg/set_competitive.cfg"	"Classic Competitive"
-	"cfg/set_armsrace.cfg"	"Arms Race"
 	"cfg/set_demolition.cfg"	"Demolition"
+	"cfg/set_armsrace.cfg"	"Arms Race"
+	"cfg/set_retakes.cfg"	"Retakes"
 	"cfg/set_deathmatch.cfg"	"Deathmatch"
 	"cfg/set_wingman.cfg"	"Wingman (2v2)"
 }

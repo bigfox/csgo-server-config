@@ -7,15 +7,15 @@
 
 ### Game Modes
 
-|                     | `game_type` | `game_mode` | `map`        | `mapgroup`            |
-|---------------------|-------------|-------------|--------------|-----------------------|
-| Classic Casual      | `0`         | `0`         |              |                       |
-| Classic Competitive | `0`         | `1`         | `de_dust2`   | `mg_active`           |
-| Arms Race           | `1`         | `0`         | `ar_shoots`  | `mg_armsrace`         |
-| Demolition          | `1`         | `1`         | `de_lake`    | `mg_demolition`       |
-| Deathmatch          | `1`         | `2`         | `de_dust2`   | `mg_deathmatch`       |
-| Wingman (2v2)       | `0`         | `2`         | `de_vertigo` | `mg_wingman`          |
-| Retakes             | `0`         | `0`         | `de_dust2`   | `mg_skirmish_retakes` |
+|                     | `game_type` | `game_mode` | `sv_skirmish_id` | `map`        | `mapgroup`            |
+|---------------------|-------------|-------------|------------------|--------------|-----------------------|
+| Classic Casual      | `0`         | `0`         | `0`              | `de_dust2`   | `mg_active`           |
+| Classic Competitive | `0`         | `1`         | `0`              | `de_dust2`   | `mg_active`           |
+| Arms Race           | `1`         | `0`         | `0`              | `ar_shoots`  | `mg_armsrace`         |
+| Demolition          | `1`         | `1`         | `0`              | `de_lake`    | `mg_demolition`       |
+| Deathmatch          | `1`         | `2`         | `0`              | `de_dust2`   | `mg_deathmatch`       |
+| Wingman (2v2)       | `0`         | `2`         | `0`              | `de_vertigo` | `mg_wingman`          |
+| Retakes             | `0`         | `0`         | `12`             | `de_dust2`   | `mg_skirmish_retakes` |
 
 ### Startup options
 

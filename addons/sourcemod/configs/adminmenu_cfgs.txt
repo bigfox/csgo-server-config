@@ -3,21 +3,13 @@
  * Left side is the filename, right side is the text to be added to the menu
  */
 
-// Original config
-//
-// Configs
-// {
-// 	"cfg/server.cfg"	"Standard Server Setup"
-// 	"cfg/sourcemod/sm_warmode_on.cfg"	"War Mode On"
-// 	"cfg/sourcemod/sm_warmode_off.cfg"	"War Mode Off"
-// }
-
 Configs
 {
-	"cfg/set_competitive.cfg"	"Classic Competitive"
+	"cfg/set_casual.cfg"	"Casual"
+	"cfg/set_competitive.cfg"	"Competitive"
 	"cfg/set_demolition.cfg"	"Demolition"
-	"cfg/set_armsrace.cfg"	"Arms Race"
 	"cfg/set_retakes.cfg"	"Retakes"
+	"cfg/set_armsrace.cfg"	"Arms Race"
 	"cfg/set_deathmatch.cfg"	"Deathmatch"
 	"cfg/set_wingman.cfg"	"Wingman (2v2)"
 }
